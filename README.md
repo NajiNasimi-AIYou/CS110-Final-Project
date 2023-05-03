@@ -37,7 +37,7 @@
     <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project">View Demo</a>
+    <a href="https://najinasimi-aiyou.github.io/CS110-Final-Project/">View Demo</a>
     ·
     <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project/issues">Report Bug</a>
     ·
