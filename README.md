@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project/blob/main/Royal_Goose_v1.jpeg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Royal_Goose_v1.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Final Project</h3>
