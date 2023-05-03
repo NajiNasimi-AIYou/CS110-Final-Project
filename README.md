@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project">
+  <a href="https://github.com/NajiNasimi-AIYou/CS110-Final-Project/blob/main/Royal_Goose_v1.jpeg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
